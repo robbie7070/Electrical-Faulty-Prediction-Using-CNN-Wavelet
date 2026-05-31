@@ -1,0 +1,29 @@
+# ============================================================================
+# Tanzania Power Fault Detection System - Dependencies
+# CNN + Wavelet Deep Learning for Electrical Grid Monitoring
+# ============================================================================
+
+# Core Deep Learning Framework
+tensorflow>=2.10.0,<3.0.0
+
+# Numerical Computing & Data Processing
+numpy>=1.21.0,<2.0.0
+pandas>=1.3.0,<3.0.0
+scipy>=1.7.0,<2.0.0
+
+# Machine Learning Utilities
+scikit-learn>=1.0.0,<2.0.0
+
+# Wavelet Signal Processing
+PyWavelets>=1.3.0
+
+# Visualization & Plotting
+matplotlib>=3.5.0,<4.0.0
+seaborn>=0.11.0,<1.0.0
+
+# Model Persistence & Serialization
+joblib>=1.1.0,<2.0.0
+h5py>=3.6.0,<4.0.0
+
+# Progress Bars (for long operations)
+tqdm>=4.62.0
