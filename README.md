@@ -1,0 +1,1 @@
+# Electrical-Faulty-Prediction-Using-CNN-Wavelet
